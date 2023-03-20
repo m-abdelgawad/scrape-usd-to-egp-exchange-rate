@@ -142,7 +142,6 @@ To get a local copy up and running follow these simple steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] 
 - [x] Uses ChromeDriver on Windows or Linux.
 - [x] Selenium opens Google.
 - [x] Searches for "1USD to EGP".
