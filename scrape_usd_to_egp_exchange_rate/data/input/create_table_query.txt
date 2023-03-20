@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS usd_egp_rate  (
+    last_updated TIMESTAMP PRIMARY KEY,
+    usd_egp_rate NUMERIC
+);

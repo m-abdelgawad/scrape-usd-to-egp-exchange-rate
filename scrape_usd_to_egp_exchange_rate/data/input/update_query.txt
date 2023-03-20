@@ -1,0 +1,4 @@
+UPDATE usd_egp_rate
+SET
+	last_updated = %s,
+	usd_egp_rate = %s

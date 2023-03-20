@@ -1,0 +1,5 @@
+INSERT INTO usd_egp_rate  (
+    last_updated,
+    usd_egp_rate
+)
+VALUES (%s, %s)
